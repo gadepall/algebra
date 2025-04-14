@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  13 APR 2025 15:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  13 APR 2025 22:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1904,12 +1904,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [5]) (./ncert/roots.tex
+Overfull \vbox (2.40245pt too high) has occurred while \output is active []
+
+
 
 [6]) (./ncert/quad.tex
 
-[7])
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[8] (./main.aux)
+
+
+[8])
+
+[9] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -1918,10 +1926,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 538081BFE62760F844932B8D61AFD68C;728.
  ) 
 Here is how much of TeX's memory you used:
- 54304 strings out of 473197
- 1309916 string characters out of 5701897
- 1889468 words of memory out of 5000000
- 76614 multiletter control sequences out of 15000+600000
+ 54351 strings out of 473197
+ 1310336 string characters out of 5701897
+ 1913468 words of memory out of 5000000
+ 76616 multiletter control sequences out of 15000+600000
  626139 words of font info for 172 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,6n,109p,1194b,1302s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1933,13 +1941,15 @@ re/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></data/data/com
 /files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/txex.pfb></
 data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public
 /txfonts/txsy.pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-dis
-t/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/texli
-ve/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux/file
-s/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (8 pages, 550405 bytes).
+t/fonts/type1/public/txfonts/txsyc.pfb></data/data/com.termux/files/usr/share/t
+exlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/
+files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data
+/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/
+utmri8a.pfb>
+Output written on main.pdf (9 pages, 556879 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
- 141 named destinations out of 1000 (max. 500000)
+ 375 PDF objects out of 1000 (max. 8388607)
+ 323 compressed objects within 4 object streams
+ 186 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
