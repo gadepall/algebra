@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  13 APR 2025 22:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  12 MAY 2025 06:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1926,9 +1926,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 538081BFE62760F844932B8D61AFD68C;728.
  ) 
 Here is how much of TeX's memory you used:
- 54351 strings out of 473197
- 1310336 string characters out of 5701897
- 1913468 words of memory out of 5000000
+ 54368 strings out of 473197
+ 1310472 string characters out of 5701897
+ 1913467 words of memory out of 5000000
  76616 multiletter control sequences out of 15000+600000
  626139 words of font info for 172 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -1946,10 +1946,10 @@ exlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/
 files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data
 /data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (9 pages, 556879 bytes).
+Output written on main.pdf (9 pages, 558277 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 323 compressed objects within 4 object streams
- 186 named destinations out of 1000 (max. 500000)
+ 395 PDF objects out of 1000 (max. 8388607)
+ 343 compressed objects within 4 object streams
+ 203 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
